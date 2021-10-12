@@ -63,11 +63,11 @@ The login page requires an email and a password. If you have not signed up yet, 
 ![SS3](./Assets/SS3.PNG)
 Add a username, email and password to signup.
 
-![SS4](./assets/SS4.PNG)
+![SS4](./Assets/SS4.PNG)
 Once signed in, the header displays the gallery, cart and logout links.
 
-![SS5](./assets/SS5.PNG)
+![SS5](./Assets/SS5.PNG)
 After selecting the Lucid, Side and Vis artwork from the page before, they are now displayed in the cart.
 
-![SS6](./assets/SS6.PNG)
+![SS6](./Assets/SS6.PNG)
 By selecting the Submit Order button on the previous page, the user is directed to the payment processing service Stripe, which displays the cart contents and allows the user to input their payment information to submit the sale.
